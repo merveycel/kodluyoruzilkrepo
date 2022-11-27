@@ -18,3 +18,5 @@ code .
 ```
 ## Var Olan Lisanslar
 * [MIT](https://github.com/merveycel/kodluyoruzilkrepo/blob/main/LICENSE)
+ ---
+[Patika adresim](https://app.patika.dev/merveycel)
